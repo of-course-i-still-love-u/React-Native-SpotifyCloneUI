@@ -41,14 +41,8 @@ export default class SpotifyApp extends Component {
                         </View>
                     </TouchableWithoutFeedback>
 
-
                 </View>
             </View>
-
-
-
-
-
 
         )
     }
