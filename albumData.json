@@ -1,0 +1,100 @@
+{
+
+    "theWeeknd": [
+        {
+            "key": 1,
+            "name": "Blinding Lights",
+            "url": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c1/The_Weeknd_-_After_Hours.png/220px-The_Weeknd_-_After_Hours.png"
+        },
+        {
+            "key": 2,
+            "name": "Starboy",
+            "url": "https://f.ptcdn.info/618/047/000/ohig32lhyWRGDHIxyGO-o.jpg"
+        },
+        {
+            "key": 3,
+            "name": "Smile(with The Weeked)",
+            "url": "https://miro.medium.com/max/512/1*eAbcWSQhg9Y6s6iViO68qw.png"
+        },
+        {
+            "key": 4,
+            "name": "In Your Eyes",
+            "url": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c1/The_Weeknd_-_After_Hours.png/220px-The_Weeknd_-_After_Hours.png"
+        }
+    ],
+    "Lisa": [
+        {
+            "key": 1,
+            "name": "LiSA Best(Day)",
+            "year": 2018,
+            "url": "https://www.generasia.com/w/images/thumb/d/df/LiSA_-_LiSA_Best_-Day-_%26_LiSA_Best_-Way-_%28Promotional_8%29.jpg/350px-LiSA_-_LiSA_Best_-Day-_%26_LiSA_Best_-Way-_%28Promotional_8%29.jpg"
+        },
+        {
+            "key": 2,
+            "name": "LiSA Best(Way)",
+            "year": 2018,
+            "url": "https://www.generasia.com/w/images/thumb/2/2d/LiSA_-_LiSA_Best_-Way-_%28Limited_CD%2BBD%EF%BC%8FDVD_Edition%29.jpg/333px-LiSA_-_LiSA_Best_-Way-_%28Limited_CD%2BBD%EF%BC%8FDVD_Edition%29.jpg"
+        },
+        {
+            "key": 3,
+            "name": "Lucky Hi Five!",
+            "year": 2016,
+            "url": "https://images-na.ssl-images-amazon.com/images/I/51vsDL%2B68fL._SX355_.jpg"
+        },
+        {
+            "key": 4,
+            "name": "Little Devil Parade",
+            "year": 2017,
+            "url": "https://img.discogs.com/IhLljWylP137UJPWzpU6vmCXCM4=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-14400176-1573760457-6110.jpeg.jpg"
+        }
+    ],
+    "Jumpback": [
+        {
+            "key": 1,
+            "name": "THE REAPER",
+            "title": "EP • keshi" ,
+            "url": "https://i1.sndcdn.com/artworks-000439208982-r2uklz-t500x500.jpg"
+        },
+        {
+            "key": 2,
+            "name": "No Scenario",
+            "title": "EP • Maaya Uchida",
+            "url": "https://st.cdjapan.co.jp/pictures/s/15/16/PCCG-70472.jpg"
+        },
+        {
+            "key": 3,
+            "name": "After Hours",
+            "title": "Album • The Weeknd",
+            "url": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c1/The_Weeknd_-_After_Hours.png/220px-The_Weeknd_-_After_Hours.png"
+        },
+        {
+            "key": 4,
+            "name": "Blackpink your area",
+            "title": "Blackpink your area",
+            "url": "https://img.biggo.com.tw/sRFmZAc4WsIZP4KWNU2c97WceQEDYsZBQ3_4CW2T-PMY/https://th-test-11.slatic.net/p/ed0880de4c596289c3e7688e501cf413.jpg"
+        }
+    ],
+    "FavoriteArtists": [
+        {
+            "key": 1,
+            "name": "keshi",
+            "url": "https://cheezelooker.com/file_managers/uploads/file_managers/source/2020%20DAILY%20CULTURE/APRIL/WEEK%201/KESHI/cheezelooker_keshi%20(4).jpg"
+        },
+        {
+            "key": 2,
+            "name": "Lauv",
+            "url": "https://pbs.twimg.com/profile_images/1275776374381383686/vnjTna-o_reasonably_small.jpg"
+        },
+        {
+            "key": 3,
+            "name": "Bazzi",
+            "url": "https://imagizer.imageshack.com/img922/6270/nJdBE3.jpg"
+        },
+        {
+            "key": 4,
+            "name": "Khalid",
+            "url": "https://www.rollingstone.com/wp-content/uploads/2018/06/r1293_fea_khalid_opener-portrait-a5fd4a09-e7d3-4c2f-b844-7ac81fd5cf74.jpg"
+        }
+    ]
+
+}
